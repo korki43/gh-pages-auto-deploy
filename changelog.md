@@ -1,12 +1,14 @@
 # Changelog
 
 ## Unreleased
-Changes in the upcoming version are documented here.
+
+- fix zip directory
 
 ---
 
 ## v2.0.1
-Changes in the upcoming version are documented here.
+
+- fix build script permission error
 
 ---
 

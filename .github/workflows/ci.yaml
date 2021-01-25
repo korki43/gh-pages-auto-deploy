@@ -48,7 +48,7 @@ jobs:
           prerelease: false
 
       - name: Zip build Folder
-        run: zip -r build build/*
+        run: zip -r dist dist/*
 
       - name: Upload zipped Build as Release Asset
         id: upload-release-asset
