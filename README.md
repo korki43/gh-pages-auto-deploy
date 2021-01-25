@@ -2,7 +2,15 @@
 
 Automated Deploy with Github Actions.
 
-Only working in Posix evironments. If you are using MINGW or CYGWIN make sure to set youre npm script-shell to the coresponding bash location.
+Only working in Posix evironments. If you are using MINGW or CYGWIN make sure to set your npm script-shell to the coresponding bash location.
+
+## Setup
+
+```sh
+curl -s https://raw.githubusercontent.com/korki43/gh-pages-auto-deploy/main/setup.sh | bash
+```
+
+_**Note:** You need npm v7 to use this script. This script performs the steps listed beneath._
 
 ## Instructions
 
