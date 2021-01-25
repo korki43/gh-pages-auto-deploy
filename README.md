@@ -6,9 +6,10 @@ Only working in Posix evironments. If you are using MINGW or CYGWIN make sure to
 
 ## Instructions
 
-Change [`publish_dir`](./.github/workflows/ci.yaml#L29) and the [`zip` command](./.github/workflows/ci.yaml#L51) in [ci.yaml](./.github/workflows/ci.yaml) to match your build directory.
+Change [`publish_dir`](./.github/workflows/ci.yaml#L29), [`asset_path`](./.github/workflows/ci.yaml#L60) and the [`zip`](./.github/workflows/ci.yaml#L51) in [ci.yaml](./.github/workflows/ci.yaml) command to match your build directory.
+
 Copy `changelog-template.md` to `changelog.md` and the `.github` directory.
-Copy the `pre-`, `post-` and `version` scripts on your `package.json`
+Copy the `pre-`, `post-` and `version` scripts in your `package.json`
 
 ## License
 
