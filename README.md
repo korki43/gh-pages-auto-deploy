@@ -10,7 +10,7 @@ Only working in Posix evironments. If you are using MINGW or CYGWIN make sure to
 curl -s https://raw.githubusercontent.com/korki43/gh-pages-auto-deploy/main/setup.sh | bash
 ```
 
-_**Note:** You need npm v7 to use this script. This script performs the steps listed beneath._
+_**Note:** This script performs the steps listed beneath._
 
 ## Instructions
 
