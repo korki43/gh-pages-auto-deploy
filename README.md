@@ -7,7 +7,7 @@ Only working in Posix evironments. If you are using MINGW or CYGWIN make sure to
 ## Setup
 
 ```sh
-curl -s https://raw.githubusercontent.com/korki43/gh-pages-auto-deploy/main/setup.sh | bash
+bash <(curl -s https://raw.githubusercontent.com/korki43/gh-pages-auto-deploy/main/setup.sh)
 ```
 
 _**Note:** This script performs the steps listed beneath._
