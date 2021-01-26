@@ -1,4 +1,4 @@
-# git-deploy-test
+# gh-pages-auto-deploy
 
 Automated Deploy with Github Actions.
 

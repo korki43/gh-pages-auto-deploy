@@ -1,5 +1,5 @@
 {
-  "name": "git-deploy-test",
+  "name": "gh-pages-auto-deploy",
   "version": "2.1.1",
   "private": true,
   "scripts": {
